@@ -1,4 +1,4 @@
-package com.example.senai.exemploDTO.DTO;
+package com.example.senai.exemploDTO.dto;
 
 public record LivroDTO(Long id, String titulo, String autor) {
 
